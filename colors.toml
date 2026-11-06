@@ -1,0 +1,37 @@
+# Mosslight — a quiet forest palette for creative coding.
+mode = "dark"
+
+accent = "#a4c39a"
+selection = "#3b5145"
+selection_background = "#3b5145"
+selection_foreground = "#e2e8da"
+muted = "#879b8d"
+
+background = "#1a2421"
+dark_background = "#141d1b"
+darker_background = "#0f1614"
+lighter_background = "#26352e"
+
+foreground = "#d4ddcc"
+dark_foreground = "#8c9e91"
+light_foreground = "#b8c7b6"
+bright_foreground = "#e2e8da"
+
+hyprland_active_border = "rgba(94b58cdd) rgba(7eaaa3cc) 45deg"
+hyprland_inactive_border = "rgb(35453c)"
+
+red = "#d98b85"
+yellow = "#cdb887"
+orange = "#cc9f79"
+green = "#a4bb8e"
+cyan = "#86b8aa"
+blue = "#91afbc"
+magenta = "#b4a0bd"
+brown = "#967e68"
+
+bright_red = "#e6a19a"
+bright_yellow = "#ddc99b"
+bright_green = "#b7ce9f"
+bright_cyan = "#9bcabc"
+bright_blue = "#a5c2cf"
+bright_magenta = "#c6b2cf"
